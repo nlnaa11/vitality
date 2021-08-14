@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>translations/Vitality_ru.ts</file>
+    <file>translations/Vitality_ru.qm</file>
+    <file>images/all.png</file>
+    <file>images/back.png</file>
+    <file>images/delete.png</file>
+    <file>images/deselect.png</file>
+    <file>images/edit.png</file>
+    <file>images/hide.png</file>
+    <file>images/main.png</file>
+    <file>images/new.png</file>
+    <file>images/ok.png</file>
+    <file>images/run.png</file>
+</qresource>
+</RCC>
