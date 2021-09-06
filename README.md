@@ -1,2 +1,2 @@
 # vitality
-My first pet project for Android (C++, Qt5)
+*My first pet project C++/Qt5
